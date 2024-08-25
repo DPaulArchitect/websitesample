@@ -72,6 +72,5 @@ Next step, simply install all the cloudformation stacks (in any order) ensuring 
 
 # Create AMI, and build out full network architecture (VPC, ALB, SGs etc)
 
-- Your application should be ready - you are now left on your own to follow the target architectural diagram and build a fully operational, scalable, well-architected application. Message me on Slack or jack@digitalcloud.training if you have any questions:
-
+- Your application should be ready - you are now left on your own to follow the target architectural diagram and build a fully operational, scalable, well-architected application. 
 Happy Building! 
